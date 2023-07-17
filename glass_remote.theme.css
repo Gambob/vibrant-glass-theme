@@ -40,7 +40,7 @@
     position: absolute;
     background: var(--window-name-color);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: var(--dark-background);
     background-clip: text;
     font-size: 15px;
     font-weight: bold;
@@ -114,7 +114,7 @@
 
 /* SEND MESSAGE, ADD FRIEND */
 .actionButton-3W1xZa {
-    background-color: transparent !important;
+    background-color: var(--dark-background) !important;
     border: 2px solid var(--text-positive);
     border-radius: 1rem;
     color: var(--text-normal) !important;
@@ -139,7 +139,7 @@
 
 /* IMAGES STATS */
 .imageDetails-1t6Zms {
-    background-color: transparent !important;
+    background-color: var(--dark-background) !important;
 }
 
 /* LAUNCH STREAM BUTTONS (cancel, go live) */
@@ -176,7 +176,7 @@
 .members-3WRCEx > div > div,
 .container-1oAagU,
 .container-1oAagU > div > div {
-    background-color: transparent;
+    background-color: var(--dark-background);
 }
 
 .container-1oAagU > div > div {
