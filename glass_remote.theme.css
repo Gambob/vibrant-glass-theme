@@ -114,7 +114,7 @@
 
 /* SEND MESSAGE, ADD FRIEND */
 .actionButton-3W1xZa {
-    background-color: transparent !important;
+    background-color: var(--dark-background) !important;
     border: 2px solid var(--text-positive);
     border-radius: 1rem;
     color: var(--text-normal) !important;
